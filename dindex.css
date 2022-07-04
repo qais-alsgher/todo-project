@@ -61,4 +61,5 @@ button:focus {
   outline-style:solid;
   box-shadow: 0 0 0 2px #880b02;
   transition: 0.7s;
+  
 }
